@@ -10,5 +10,7 @@ In this exercise, you are going to breakdown a mock up of the Google homepage in
 ## Instructions
 * Extract the Header, Main and Footer sections in to their own React components
 
+![img](image.png)
+
 ## Extension
 * See what additional components you can extract from each of those sections
