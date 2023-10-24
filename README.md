@@ -1,16 +1,8 @@
-# React Components Intro
+# React + Vite
 
-In this exercise, you are going to breakdown a mock up of the Google homepage in to separate React components.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Set up
-1. Fork and clone this repository
-3. Run `npm install` to installs dependencies for the project. You may see warnings about `deprecated` packages and vulnerabilities. You can ignore these.
-4. Run `npm start` to start the local development server that runs your website in the browser.
+Currently, two official plugins are available:
 
-## Instructions
-* Extract the Header, Main and Footer sections in to their own React components
-
-![img](image.png)
-
-## Extension
-* See what additional components you can extract from each of those sections
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
